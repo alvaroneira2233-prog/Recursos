@@ -36,7 +36,14 @@
 
 ![ESQUELETO](https://static8.depositphotos.com/1326888/802/i/950/depositphotos_8022200-stock-photo-undead-skeleton-holding-his-thumbs.jpg)
 
-# comando en python
+# tipos de textos
+<!-- comentario -->
+
+*texto en italic*
+
+**texto strong**
+
+texto ~~tachado~~
 
 
 
