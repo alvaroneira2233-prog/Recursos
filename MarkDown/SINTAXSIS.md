@@ -1,8 +1,5 @@
 # sintaxis 
 
-
-<https://code.visualstudio.com/docs/languages/markdown>
-
 ##listas
    *iguana
    *ornitorrinco
@@ -20,3 +17,17 @@
 ```
 
 [![Alt text](https://img.youtube.com/vi/1I7nXn4fnkU/0.jpg)](https://www.youtube.com/watch?v=1I7nXn4fnkU)
+
+
+# imagen
+
+![ESQUELETO](https://static8.depositphotos.com/1326888/802/i/950/depositphotos_8022200-stock-photo-undead-skeleton-holding-his-thumbs.jpg)
+
+# comando en python
+
+
+
+
+
+
+
