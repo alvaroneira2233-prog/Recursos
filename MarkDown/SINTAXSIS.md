@@ -1,9 +1,12 @@
 # sintaxis 
 
-##listas
-   *iguana
-   *ornitorrinco
-   *pelicano
+## listas
+
+``` para hacer una lista le ponemos un asterisco ```
+
+   * iguana
+   * ornitorrinco
+   * pelicano
 
    1. chocolate
    2. vainilla
