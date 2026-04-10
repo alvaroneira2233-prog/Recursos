@@ -1,5 +1,15 @@
 # sintaxis 
 
+# diferencia de tamaños de textos 
+
+# a media
+## que se ponen gatos
+### el tamaño disminuye 
+
+
+
+
+
 ## listas
 
 ``` para hacer una lista le ponemos un asterisco ```
