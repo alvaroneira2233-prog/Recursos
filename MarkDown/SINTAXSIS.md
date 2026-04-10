@@ -2,7 +2,7 @@
 
 # diferencia de tamaños de textos 
 
-# a media
+# a medida
 ## que se ponen gatos
 ### el tamaño disminuye 
 
