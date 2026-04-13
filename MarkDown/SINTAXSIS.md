@@ -45,9 +45,13 @@
 
 texto ~~tachado~~
 
+## para escribir un codigo se utiliza 
 
-
-
+```go
+type Field struct {
+    Name string
+}
+```
 
 
 
