@@ -59,7 +59,10 @@ tambien se pueden aplocar operadores como:
 * 3 ** 3 "potencia"
 * 3 // 3 "suelo"
 * 3 % 3 "modulo"
+ esto mismo es aplicable y mas recomdable a variables para que no haya mucha confucion, es mejor poner "num_1"
+a una variable para asignarle un valor numerico y hacer mas eficientemente los problemas, es importante recordar que se pueden utilizar varios operadores en una misma linea (respetando las reglas matemitacias) aunque si es que quisieras que un aoperacion especifica se haga antes puedes utilizar () para priorizarla 
 
+##operadores relacionalaes
 
 
 
