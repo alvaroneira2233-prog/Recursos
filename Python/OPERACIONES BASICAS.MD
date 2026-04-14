@@ -88,6 +88,7 @@ else:
 
 print("fin del programa")
 ```
+
 el "elif" es un agregado que puede ayudar si es que se necesite una tercera opcion en este caso al 0 no seer mayor que cero lo toma como negaivo lo 
 cual es incorrecto , entonces utilizamos el elif para agregar que cero es cero y asi no tener un error 
 ---
