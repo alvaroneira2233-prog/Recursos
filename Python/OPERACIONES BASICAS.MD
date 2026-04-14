@@ -62,13 +62,35 @@ tambien se pueden aplocar operadores como:
  esto mismo es aplicable y mas recomdable a variables para que no haya mucha confucion, es mejor poner "num_1"
 a una variable para asignarle un valor numerico y hacer mas eficientemente los problemas, es importante recordar que se pueden utilizar varios operadores en una misma linea (respetando las reglas matemitacias) aunque si es que quisieras que un aoperacion especifica se haga antes puedes utilizar () para priorizarla 
 
-##operadores relacionalaes
+## operadores relacionalaes
+funcionan en base al true o false, en resumen que si una operacion es verdadera o falza ependiendo de que estemos haciendo 
+ej:
 
 
 
 
 
 
+estos sirven para la toma de deciciones 
+# condicionales
+---
+## if
+se utiliza en la toma de deciciones sindo if el "verdadero" y else "falso" entocies si no se cumple lo que se estipule en if automaticamente se ejecutara else
+ej:
+```python 
+numero = int(intput("digite un numero:"))
+if numero>0:
+      print("el numero es positivo")
+elif numero==0:
+      print("el numero es cero")
+else: 
+      print("el numero es negativo")
+
+print("fin del programa")
+```
+el "elif" es un agregado que puede ayudar si es que se necesite una tercera opcion en este caso al 0 no seer mayor que cero lo toma como negaivo lo 
+cual es incorrecto , entonces utilizamos el elif para agregar que cero es cero y asi no tener un error 
+---
 
 
 
