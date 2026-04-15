@@ -115,12 +115,18 @@ for i in coleccion:
 # while 
 --- 
 
+primero cramos un archivo que termine en .py para programar en el, los ciclos while son bucles infinitos que solo se terminan al completar un aconcicion en especifica 
+ej:
+```python 
+contraseña = "iguana"
+while true:
+       contraseña_input = input(introduzca una contraseña:)
+       if contraseña _input == "iguana":
+       print("contraseña correcta")
+       break 
 
-
-
-
-
-
+       else: print("contraseña incorrecta, introduzca la correcta down")
+```
 
 
 
