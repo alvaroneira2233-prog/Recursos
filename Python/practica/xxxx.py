@@ -1,5 +1,4 @@
 ejercicios
----
 1:
 ```python 
 temperatura = int(input(print("ingrese la temperatura actual de su procesador")))
@@ -11,3 +10,5 @@ elif temperatura >75:
 else: 
         print ("temperatura elevada")
   ```
+2:
+```python
