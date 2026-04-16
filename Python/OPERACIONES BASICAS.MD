@@ -78,7 +78,7 @@ estos sirven para la toma de deciciones
 se utiliza en la toma de deciciones sindo if el "verdadero" y else "falso" entocies si no se cumple lo que se estipule en if automaticamente se ejecutara else
 ej:
 ```python 
-numero = int(intput("digite un numero:"))
+numero = int(input("digite un numero:"))
 if numero>0:
       print("el numero es positivo")
 elif numero==0:
