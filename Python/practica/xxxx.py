@@ -12,3 +12,23 @@ else:
   ```
 2:
 ```python
+# 1. Definimos la variable 
+numero_secreto = 3
+
+print("adivine el numero")
+
+while True:
+    # 2. Pedimos el número y lo convertimos a entero
+    numero_seleccionado = int(input("introduzca el numero: "))
+    
+    # 3. Comparamos
+    if numero_seleccionado < numero_secreto:
+        print("numero muy bajo intente de nuevo")
+        
+    elif numero_seleccionado > numero_secreto:
+        print("numero muy alto intente de nuevo")
+        
+    else:
+        print("felicidades encontraste el numero")
+        break
+```  
