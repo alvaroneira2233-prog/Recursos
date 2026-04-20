@@ -40,7 +40,11 @@ class Personaje:
         enemigo.vida = enemigo.vida - daño
         print(self.nombre, "ah realizado", daño, "puntos de daño a ", enemigo.nombre)
         print("la vide de ", enemigo.nombre, "es", enemigo.vida)
+        if enemigo.esta_vivo():
+            print("la vida de", emnmigo.nombre, "es", enemigo.vida)
 
+        else:
+            enemigo.morir()
     
 mi_personaje = Personaje("personaje1", 50, 20, 15, 20)
 mi_enemigo = Personaje("carlos", 20, 10, 5, 10)
