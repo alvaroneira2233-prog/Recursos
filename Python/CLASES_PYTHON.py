@@ -1,17 +1,18 @@
+```python
 class Personaje:
     nombre = "default"
     vida = 0
     fuerza = 0
     inteligencia = 0
     defensa = 0
-
+## aqui va el costructor el (__init__) 
     def __init__(self, nombre, vida, fuerza, inteligencia, defensa):
-        self.nombre = nombre
-        self.vida = vida
+        self.nombre = nombre #el self. sirven parar acceder a tanto atributo como a metodos de la clase  
+        self.vida = vida     
         self.fuerza = fuerza
         self.inteligencia = inteligencia
         self.defensa = defensa
-
+# el def es para que lo tome como una funcion
     def atributos(self):
         print(self.nombre , ":", sep="")
         print("vida", self.vida)
@@ -50,3 +51,4 @@ mi_personaje = Personaje("personaje1", 50, 20, 15, 20)
 mi_enemigo = Personaje("carlos", 20, 10, 5, 10)
 mi_personaje.atacar(mi_enemigo)
 # mi_enemigo.atributos()
+``` 
