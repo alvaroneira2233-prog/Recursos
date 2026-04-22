@@ -14,3 +14,17 @@ ej de oparadigma:
 La acción: "Pon agua en la olla, enciende el fuego a 100°C, espera a que hierva, echa la pasta, espera 8 minutos y escúrrela".
 
 En la vida real: Es como un jefe que te dice exactamente cada movimiento que debes hacer. Si cambias un paso de orden, el resultado puede ser un desastre.
+
+
+video gia:
+
+[![Alt text](https://img.youtube.com/vi/GehWsIr6oFo/0.jpg)](https://www.youtube.com/watch?v=GehWsIr6oFo)
+
+
+
+
+
+
+
+
+
