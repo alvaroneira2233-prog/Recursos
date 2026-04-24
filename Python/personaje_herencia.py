@@ -1,4 +1,4 @@
-
+```python
 class Personaje:
     nombre = "default"
     vida = 0
@@ -95,4 +95,4 @@ mango.atacar(carlos)
 carlos.atributos()
 escritorio.atributos()
 mango.atributos()
-
+```
