@@ -85,14 +85,29 @@ class mago(Personaje):
     def daño(self, enemigo):
         return self.inteligencia*self.libro - enemigo.defensa
     
+class marginado(Personaje):
+    def __init__(self, nombre, vida, fuerza, inteligencia, defensa, palo):
+        super().__init__(nombre, vida, fuerza, inteligencia, defensa)
+        self.palo = palo
 
+    def atributos(self):
+        return super().atributos()
+        print("palo", self.palo)
+
+    def daño(self, enemigo):
+        return self.fuerza*self.palo - enemigo.defensa
+
+juan = marginado("juan", 20, 15, 15,30, 5)
 carlos = Personaje("carlos", 20, 15, 10, 10)
 escritorio = guerrero("escritorio", 50, 45, 5, 30, 5)
 mango = mago("mango", 25, 5, 40, 10, 5)
+juan.atacar(carlos)
 carlos.atacar(escritorio)
 escritorio.atacar(mango)
-mango.atacar(carlos)
+mango.atacar(juan)
+juan.atributos()
 carlos.atributos()
 escritorio.atributos()
 mango.atributos()
+
 ```
