@@ -8,3 +8,4 @@
 ---
 [personaje polimorfismo](https://github.com/alvaroneira2233-prog/Recursos/blob/main/Python/p_plomorfismo.py)
 ---
+[clases phython](https://github.com/alvaroneira2233-prog/Recursos/blob/main/Python/CLASES_PYTHON.md)
