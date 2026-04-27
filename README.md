@@ -6,5 +6,5 @@
 ---
 [markdown](https://github.com/alvaroneira2233-prog/Recursos/blob/main/MarkDown/SINTAXSIS.md)
 ---
-[FUNDAMENTOS DE LA PROGRAMACION](https://github.com/alvaroneira2233-prog/Recursos/tree/main/FundamentosProgramacion)
+[fundamentos de programacion](https://github.com/alvaroneira2233-prog/Recursos/tree/main/FundamentosProgramacion)
 ---
