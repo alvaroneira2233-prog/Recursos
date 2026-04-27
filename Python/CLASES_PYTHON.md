@@ -6,6 +6,7 @@
 4. la funcion "super()" es la que tiene a la superclase o clse padre, esta funcion nos ayuda a facilitar el tener que  especificar las clase padre siendo mas eficiente
 5. la herencia multiple hace que una clase hija pueda heredar de mas de una clase a la vez
 6. aplicar herencia en POO nos ahorra miucho tiempo y codigo ademas de hacerlo mas reutilizable, eficiente, estructurado y flexible, viniendo bastante bien para la programacion orientada a objetos
+7. [personaje herencia](https://github.com/alvaroneira2233-prog/Recursos/blob/main/Python/personaje_herencia.py)
 
 ## trabajo final [venta de componentes]
 este mini trabajo es un ejemplo de un sistema que haga de inventario de una tienda que controle los stocks y registre piezas, en resumen es un gestor de almazenaje y precios,
