@@ -12,5 +12,5 @@ este mini trabajo es un ejemplo de un sistema que haga de inventario de una tien
 le agrege atributos faciles y que sean siemples pero efectivos en una gestion de inventario, como: nombre, marca, precio y stock siempre seran primordiales en cualquier venta o negocio
 los metodos que puse tambion son primordiales es cualquier sistema de ventas, get y set precio son bases para manejar si es que es necesario subir o bajar los precios, vender nos sierve para hacer los cambios en los stocks, aplicar descuento Se incluyó para demostrar la capacidad de realizar cálculos matemáticos internos, y por ultimo calcular valor inventario esta porque un analista siempre debe entregar información de valor agregado, como saber cuánto dinero hay invertido en total en una bodega específica.
 
-
+[Ver código de práctica final](https://github.com/alvaroneira2233-prog/Recursos/blob/main/Python/Componente_practica.py)
 
