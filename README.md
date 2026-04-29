@@ -8,3 +8,5 @@
 ---
 [fundamentos de programacion](https://github.com/alvaroneira2233-prog/Recursos/tree/main/FundamentosProgramacion)
 ---
+[mermaid](https://github.com/alvaroneira2233-prog/Recursos/tree/main/MERDMAID.md#readme)
+---
