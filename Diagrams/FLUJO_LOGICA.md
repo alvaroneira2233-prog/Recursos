@@ -1,22 +1,15 @@
  ## estructura del diagarma
 ```mermaid
 graph TD
-    A[inicio: llemada al metodo vender] --> B
-    {¿cantidad<=stock?}
-    B -- si --> C[Restar cantidad al stock]
-    C -->D[imprimir: venta realizada y saldo actual]
-    D --> E[fin]
-    B -- no --> F[imprimir: stock insuficientes]
+    A([Inicio: llamada al método vender]) --> B{¿cantidad > 0 y<br/>cantidad <= stock?}
+    
+    B -- Sí --> C[Restar cantidad al stock]
+    C --> D[Retornar True]
+    D --> E([Fin])
+    
+    B -- No --> F[Retornar False]
     F --> E
-```
-
-
-
-
-
-
-
-```
+    ```
 
 ---
 ## prompt
