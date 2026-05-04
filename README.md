@@ -10,3 +10,5 @@
 ---
 [mermaid](https://github.com/alvaroneira2233-prog/Recursos/tree/main/MERDMAID.md#readme)
 ---
+[diagramas](https://github.com/alvaroneira2233-prog/Recursos/tree/main/Diagrams)
+---
