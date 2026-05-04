@@ -16,7 +16,7 @@ classDiagram
         +calcular_valor_inventario() float
     }
 ```
-Guía rápida para leer este diagrama:
+## Guía rápida para leer este diagrama:
 El bloque superior: Nombre de la clase (Componente).
 
 El bloque medio (-): Son tus atributos privados. El símbolo - indica que no se pueden tocar desde fuera de la clase.
