@@ -67,9 +67,38 @@ public class Main {
 ```
 
 ---
+## hasmap
+Un HashMap, también conocido como mapa hash o tabla hash, es una estructura de datos que organiza la información asociando claves únicas con valores correspondientes, Cada clave funciona como un identificador único que permite acceder rápidamente al valor asociado, similar a cómo un directorio telefónico vincula nombres con números de teléfono
 
+## como se importa?
+- Para importar un HashMap en Java, simplemente importa el paquete java.util.HashMap y luego crea una instancia de HashMap. Por ejemplo, para crear un HashMap con claves y valores de tipo String
 
+## ejemplo de un codigo:
+```java
 
+import java.util.HashMap;
+
+public class Main {
+    public static void main(String[] args) {
+
+        HashMap<String, Integer> notas = new HashMap<>();
+
+        // Agregar datos
+        notas.put("mr.white", 95);
+        notas.put("kanyee wets", 80);
+        notas.put("jamiroquai", 70);
+
+        // Obtener un valor
+        System.out.println(notas.get("Tamara")); // → 95
+
+        // Recorrer el HashMap
+        for (String nombre : notas.keySet()) {
+            System.out.println(nombre + ": " + notas.get(nombre));
+        }
+    }
+}
+
+```
 
 
 
