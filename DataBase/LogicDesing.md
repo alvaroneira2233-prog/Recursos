@@ -6,7 +6,7 @@ para que no se nos confunda en los registros
 ## tabla de ejemplo
 
 ## ejemplo de mer 
-[imagen](<img width="4000" height="3000" alt="imagen_2026-05-16_115821207" src="https://github.com/user-attachments/assets/9fbc0cc8-3688-446b-99b1-c13c5c9da360" />)
+![Flowchart](<img width="4000" height="3000" alt="imagen_2026-05-16_115821207" src="https://github.com/user-attachments/assets/9fbc0cc8-3688-446b-99b1-c13c5c9da360" />)
 
 ## por que usar float?
 en sese caso era mejor float ya que permite el uso de numeros decilames, mientras q int solo maneja numeros enteros
