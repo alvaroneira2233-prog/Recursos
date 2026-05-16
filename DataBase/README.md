@@ -4,3 +4,5 @@
 ---
 [cardinalidad](https://github.com/alvaroneira2233-prog/Recursos/blob/main/DataBase/cardinality)
 ---
+[datatype](https://github.com/alvaroneira2233-prog/Recursos/blob/main/DataBase/DataType.md)
+---
