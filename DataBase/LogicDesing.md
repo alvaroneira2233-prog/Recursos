@@ -32,8 +32,21 @@ caso A:
 en la veterinaria solo dejan  tener un dueño por mascota lo que nos da una cardinalidad de (1..1) ya que obligatoriamente solo puede haber una mascota por dueño, y un dueño por mscota.
 
 caso B:
-
+en el hotel dejan que varios dueños puedan retirar a un amascota y aque a su vez el dueño pueda tener mas de una mascota, esto nos da una relaciond de (n..m) ya que la mascota tiene varios dueños y el dueño puede tener varias mascotas
  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
