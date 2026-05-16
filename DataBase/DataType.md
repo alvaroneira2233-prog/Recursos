@@ -1,1 +1,2 @@
-
+# tipoes de datos
+## char
