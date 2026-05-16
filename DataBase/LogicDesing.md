@@ -22,4 +22,19 @@ asi es mas facil ver la edad sin complicacionesde renovar la informacion constan
 el problema al poner float en la edad osea numeros decimales como 0.5 es que es la mitad de un numero entero cuadno el año tiene 12 meses
 asi que nos diria feliz cumpleaños cada 5 meses
 
+## ¿para qué tipo de relación se utiliza realmente una tabla intermedia como la que creamos en clase MASCOTA_TUTOR
+Una tabla intermedia (también conocida como tabla asociativa, tabla pivote o junction table) se utiliza única y exclusivamente para resolver relaciones de Muchos a Muchos (N:M).
+
+En las bases de datos relacionales, los motores de búsqueda no pueden interpretar una relación directa de "Muchos a Muchos" entre dos tablas. Para romper ese "bloqueo", la teoría de normalización nos obliga a transformarla en dos relaciones de "Uno a Muchos" usando una tabla intermedia.
+
+##  Contexto de Negocio
+caso A:
+en la veterinaria solo dejan  tener un dueño por mascota lo que nos da una cardinalidad de (1..1) ya que obligatoriamente solo puede haber una mascota por dueño, y un dueño por mscota.
+
+caso B:
+
+ 
+
+
+
 
