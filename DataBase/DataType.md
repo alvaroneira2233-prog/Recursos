@@ -3,6 +3,7 @@
 ## char
 CHAR(n):es una caena de longitud fija donde (n) es el numero de caracrteres que almacenara
 <img width="761" height="159" alt="image" src="https://github.com/user-attachments/assets/49294021-5d1d-4f6f-8882-26a74ebbc17e" />
+
 si se escribe menos letras en los caracteres quqedaran como espacios blancos y consumiran el almacenamieno de la base de datos 
 asi que es ineficiente
 
@@ -10,6 +11,7 @@ asi que es ineficiente
 VARCHAR a diferencia de CHAR tiene cadenas de logitud variable osea que en vez de que se pierda espacio cunado se escribe menos 
 de lo estipulado no consumira espacio en la base de datos inecesariamente 
 <img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/0ff0ae51-6082-4a13-8008-62bece17fdb8" />
+
 asi siendo mas facil guardar datos como nombres o direccciones sin consumir de mas 
 
 ## tetx
