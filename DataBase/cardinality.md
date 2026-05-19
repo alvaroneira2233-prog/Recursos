@@ -1,6 +1,5 @@
 ## tipos de cardinalidad 
 ![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260519_141810.jpg).
----
 ![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260519_1418172.jpg)
 ![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260519_141821.jpg)
 ![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260519_141824.jpg)
