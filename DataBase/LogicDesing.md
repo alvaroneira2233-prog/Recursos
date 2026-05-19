@@ -6,7 +6,7 @@ para que no se nos confunda en los registros
 ## tabla de ejemplo
 
 ## ejemplo de mer 
-![Flowchart]
+![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260516_115558.jpg)
 
 ## por que usar float?
 en sese caso era mejor float ya que permite el uso de numeros decilames, mientras q int solo maneja numeros enteros
