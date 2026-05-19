@@ -4,7 +4,7 @@ pasarian a ser los datos a recopilar, es importante recordar que al hacer un a t
 para que no se nos confunda en los registros
 
 ## tabla de ejemplo
-
+![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260516_115552.jpg)
 ## ejemplo de mer 
 ![Flowchart](https://github.com/alvaroneira2233-prog/Recursos/blob/main/fotostrabajo/IMG_20260516_115558.jpg)
 
