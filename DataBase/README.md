@@ -2,7 +2,7 @@
  ---
 [logica de diseño](https://github.com/alvaroneira2233-prog/Recursos/blob/main/DataBase/LogicDesing.md)
 ---
-[cardinalidad](https://github.com/alvaroneira2233-prog/Recursos/blob/main/DataBase/cardinality)
+[cardinalidad](https://github.com/alvaroneira2233-prog/Recursos/blob/main/DataBase/cardinality.md)
 ---
 [datatype](https://github.com/alvaroneira2233-prog/Recursos/blob/main/DataBase/DataType.md)
 ---
