@@ -18,7 +18,7 @@ y abrimos la terminal
 ## iniciamos postgres
 ### Flujo completo para PostgreSQL "portable" en Windows
 
-1. Crear el clúster de datos:
+## 1. Crear el clúster de datos:
 
 ```powershell
 .\bin\initdb.exe -D data -U postgres -W -E UTF8
@@ -27,7 +27,7 @@ y abrimos la terminal
 
 tambien le ponemos la contraseña
 
-2. Iniciar el servidor:
+## 2. Iniciar el servidor:
 
 ```powershell
 .\bin\pg_ctl.exe -D data -l logfile start
@@ -35,7 +35,7 @@ tambien le ponemos la contraseña
 <img width="980" height="478" alt="image" src="https://github.com/user-attachments/assets/651974fb-75c8-459c-ae4e-8bfff8681a02" />
 ahora si iniciamos el servidor
 
-3. Verificar que está funcionando:
+## 3. Verificar que está funcionando:
 
 ```powershell
 .\bin\pg_isready.exe
@@ -43,7 +43,7 @@ ahora si iniciamos el servidor
 <img width="981" height="469" alt="image" src="https://github.com/user-attachments/assets/218128c3-5a12-472b-814f-80680e77c9de" />
 revisamos que funcione correctamente
 
-4. Conectarse:
+##  4. Conectarse:
 
 ```powershell
 .\bin\psql.exe -U postgres
